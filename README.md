@@ -27,6 +27,7 @@ Pitch Perfect is a 2012 musical comedy film directed by Jason Moore, written by 
 - The power of music to unite people from different backgrounds.
 
 ## Pitch Perfect 2
+![image](https://github.com/pauline0220/app-dev/assets/169427405/6dd9ca7c-60ac-42b1-b8af-935db4cc03d6)
 
 ### Summary
 
@@ -47,6 +48,7 @@ Pitch Perfect 2 is a 2015 musical comedy film directed by Elizabeth Banks, who a
 - The importance of teamwork and collaboration in achieving success.
 
 ## Pitch Perfect 3
+![image](https://github.com/pauline0220/app-dev/assets/169427405/99de1e26-8b56-4d40-943e-7026956bb829)
 
 ### Summary
 
