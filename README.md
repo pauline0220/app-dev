@@ -5,7 +5,7 @@ My first repository
 This repository contains detailed summaries, character descriptions, and more for each movie in the Pitch Perfect series.
 
 ## Pitch Perfect 1
-
+![image](https://github.com/pauline0220/app-dev/assets/169427405/dcdbb8b1-7f22-49b3-a35d-d8ed16c37581)
 ### Summary
 
 Pitch Perfect is a 2012 musical comedy film directed by Jason Moore, written by Kay Cannon, and starring Anna Kendrick, Skylar Astin, Rebel Wilson, and Brittany Snow. The film follows Beca, a rebellious freshman at Barden University, who reluctantly joins an all-girls a cappella group, the Barden Bellas. As they compete against their male counterparts, the Treblemakers, in national a cappella competitions, the Bellas discover the true meaning of sisterhood and friendship.
